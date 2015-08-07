@@ -1,5 +1,5 @@
 # SK40C_GSM-TC35
-Sample source code for GSM_TC35
+Sample source code for GSM_TC35<br/> <br/>
 <strong>Tutorial:</strong>
 <ul>
 <li><a href="http://tutorial.cytron.com.my/2012/09/20/tc35-gsm-with-sk40c/" target="_blank">SIEMENS TC35 GSM Development Board, GSM-TC35</a></li>
